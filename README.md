@@ -3,7 +3,11 @@ I am a student at University of Pisa. I am pursuing a master's degree in Compute
 I have a mathametical background thanks to my bachelor's degree in Mathematics.  
 My main interests are Quantum Computing, Algorithm theory and Numerical Analysis.  
 
+[![LinkTree][linktree-shield]][linktree-url]
+
+<!---
 [![LinkedIn][linkedin-shield]][linkedin-url]
+--->
 
 <!---
 SilvioM97/SilvioM97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

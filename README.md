@@ -1,7 +1,7 @@
 ## Hi, I’m Silvio 👋
 I am a student at University of Pisa. I am pursuing a master's degree in Computer Science 👨‍💻  
 I have a mathametical background thanks to my bachelor's degree in Mathematics.  
-My main interests are Artificial Intelligence and Algorithm Design and Analysis.  
+I'm interested in algorithms design and analysis, data structures and related fields. I've other collateral interests such as AI.
 
 [![LinkTree][linktree-shield]][linktree-url]
 

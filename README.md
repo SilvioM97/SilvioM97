@@ -3,11 +3,11 @@ I'm a Computer Science master's student at the University of Pisa with a bachelo
 
 I'm open to collaborate on interesting projects, feel free to contact me!
 
-[![LinkTree][linktree-shield]][linktree-url]
-
 <!---
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkTree][linktree-shield]][linktree-url]
 --->
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!---
 SilvioM97/SilvioM97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

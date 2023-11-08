@@ -3,7 +3,7 @@ I'm a Computer Science PhD student at the University of Pisa. My interests lie i
 
 I'm open to collaborate on interesting projects, feel free to contact me!
 
-<a href="https://www.isti.cnr.it/it/chi-siamo/people-detail/1075/Martinico_Silvio"><img src="https://www.isti.cnr.it/images/logo_isti.png" width="270" height="57" alt="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://www.isti.cnr.it/it/chi-siamo/people-detail/1075/Martinico_Silvio"><img src="https://www.isti.cnr.it/images/logo_isti.png" width="247" height="52.25" alt="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 <a href="https://stackexchange.com/users/21093928"><img src="https://stackexchange.com/users/flair/21093928.png?theme=dark" width="208" height="58" alt="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 

@@ -1,5 +1,5 @@
 ## Hi, I’m Silvio 👋
-I'm a Computer Science PhD student at the University of Pisa with a Bachelor's degree in Mathematics and a Master's degree in Computer Science . My interests lie in the field of algorithms, data structures, Information Retrieval, Machine Learning and related areas.
+I'm a Computer Science PhD student at the University of Pisa. My interests lie in the field of algorithms, data structures, Information Retrieval, Machine Learning and related areas.
 
 I'm open to collaborate on interesting projects, feel free to contact me!
 

@@ -3,8 +3,12 @@ I'm a Computer Science PhD student at the University of Pisa. My interests lie i
 
 I'm open to collaborate on interesting projects, feel free to contact me!
 
+<br/>
+
 <a href="https://www.isti.cnr.it/it/chi-siamo/people-detail/1075/Martinico_Silvio"><img src="https://www.isti.cnr.it/images/logo_isti.png" width="247" height="52.25" alt="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 &nbsp; &nbsp; &nbsp; &nbsp; [![Scholar][scholar-shield]][scholar-url] &nbsp; &nbsp; &nbsp; &nbsp; [![LinkedIn][linkedin-shield]][linkedin-url]
+
+<br/>
 
 <a href="https://stackexchange.com/users/21093928"><img src="https://stackexchange.com/users/flair/21093928.png?theme=dark" width="208" height="58" alt="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 &nbsp; &nbsp; &nbsp; &nbsp; [![LeetCode user SilvioM97](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSilvioM97&logo=leetcode&logoColor=yellow)](https://leetcode.com/SilvioM97/)

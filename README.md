@@ -3,6 +3,24 @@ I'm a Computer Science PhD student at the University of Pisa. My interests lie i
 
 I'm open to collaborate on interesting projects, feel free to contact me!
 
+## 🚀 Featured Project: kANNolo
+
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/TusKANNy/kannolo)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/TusKANNy/kannolo/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/TusKANNy/kannolo?style=for-the-badge&logo=github)](https://github.com/TusKANNy/kannolo)
+
+A high-performance Rust library for vector search (approximate k-nearest neighbors search). kANNolo offers efficient and accurate similarity search capabilities for high-dimensional data.
+
+**Key Features:**
+- ⚡ Fast approximate k-NN search and quantization algorithms
+- 🦀 Written in Rust for maximum performance
+- 📊 Optimized for high-dimensional datasets
+- 🔬 Research-backed implementation
+
+[![Explore kANNolo](https://img.shields.io/badge/Visit_Repository-blue?style=for-the-badge)](https://github.com/TusKANNy/kannolo)
+
+--------
+
 <br/>
 
 <a href="https://www.isti.cnr.it/it/chi-siamo/people-detail/1075/Martinico_Silvio"><img src="https://www.isti.cnr.it/images/logo_isti.png" width="247" height="52.25" alt="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>

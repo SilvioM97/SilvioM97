@@ -1,8 +1,6 @@
 ## Hi, I’m Silvio 👋
 I'm a Computer Science PhD student at the University of Pisa. My interests lie in the fields of Algorithms, Data Structures, Information Retrieval, Machine Learning and related areas.
 
-I'm open to collaborate on interesting projects, feel free to contact me!
-
 ## 🚀 Featured Project: kANNolo
 
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/TusKANNy/kannolo)

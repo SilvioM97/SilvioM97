@@ -7,7 +7,7 @@ I'm a Computer Science PhD student at the University of Pisa. My interests lie i
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/TusKANNy/kannolo/blob/main/LICENSE)
 [![Stars](https://img.shields.io/github/stars/TusKANNy/kannolo?style=for-the-badge&logo=github)](https://github.com/TusKANNy/kannolo)
 
-A high-performance Rust library for vector search (approximate k-nearest neighbors search). kANNolo offers efficient and accurate similarity search capabilities for high-dimensional data.
+A high-performance Rust library for vector search (approximate k-nearest neighbors search). kANNolo offers efficient and accurate similarity search for high-dimensional data and it is developed with the goal of facilitating research in ANN search and Information Retrieval.
 
 **Key Features:**
 - ⚡ Fast approximate k-NN search and quantization algorithms

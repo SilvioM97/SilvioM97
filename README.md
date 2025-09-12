@@ -1,6 +1,10 @@
 ## Hi, I’m Silvio 👋
 I'm a Computer Science PhD student at the University of Pisa. My interests lie in the fields of Algorithms, Data Structures, Information Retrieval, Machine Learning and related areas.
 
+<!---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvioM97)](https://github.com/anuraghazra/github-readme-stats)
+--->
+
 ## 🚀 Featured Project: kANNolo
 
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/TusKANNy/kannolo)
@@ -33,21 +37,6 @@ A high-performance Rust library for vector search (approximate k-nearest neighbo
 
 
 
-<!---
-[![LinkTree][linktree-shield]][linktree-url]
---->
-
-
-
-
-
-
-<!---
-SilvioM97/SilvioM97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&color=blue
 [linkedin-url]: https://www.linkedin.com/in/silvio-martinico-434285221/
 [logo_isti]: https://github.com/SilvioM97/SilvioM97/assets/96478908/b4bdd44c-b75a-48cc-92c1-6da742dae832
@@ -55,8 +44,4 @@ You can click the Preview link to take a look at your changes.
 [scholar-shield]: https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white
 [scholar-url]: https://scholar.google.com/citations?user=RPDQv_gAAAAJ
 
-<!---
-[linktree-shield]: https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
-[linktree-url]: https://linktr.ee/silviom97
---->
 

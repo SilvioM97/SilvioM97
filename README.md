@@ -30,7 +30,7 @@ A high-performance Rust library for vector search (approximate k-nearest neighbo
 
 <br/>
 
-### 📚 Occasionally dabbling in soft problems when I have spare time
+### 📚 Occasionally dabbling in soft problems in my spare time
 
 <a href="https://stackexchange.com/users/21093928"><img src="https://stackexchange.com/users/flair/21093928.png?theme=dark" width="208" height="58" alt="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 &nbsp; &nbsp; &nbsp; &nbsp; [![LeetCode user SilvioM97](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSilvioM97&logo=leetcode&logoColor=yellow)](https://leetcode.com/SilvioM97/)

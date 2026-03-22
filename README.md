@@ -14,8 +14,8 @@ I'm a Computer Science PhD student at the University of Pisa. My interests lie i
 A high-performance Rust library for vector search (approximate k-nearest neighbors search). kANNolo offers efficient and accurate similarity search for high-dimensional data and it is developed with the goal of facilitating research in ANN search and Information Retrieval.
 
 **Key Features:**
-- ⚡ Fast approximate k-NN search and quantization algorithms
-- 🦀 Written in Rust for maximum performance
+- ⚡ Fast ANN search for dense and sparse vectors
+- 🦀 Written in Rust
 - 📊 Optimized for high-dimensional datasets
 - 🔬 Research-backed implementation
 
@@ -25,8 +25,7 @@ A high-performance Rust library for vector search (approximate k-nearest neighbo
 
 ### 📚 Stay updated on my research
 
-<a href="https://www.isti.cnr.it/it/chi-siamo/people-detail/1075/Martinico_Silvio"><img src="https://www.isti.cnr.it/images/logo_isti.png" width="247" height="52.25" alt="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-&nbsp; &nbsp; &nbsp; &nbsp; [![Scholar][scholar-shield]][scholar-url] &nbsp; &nbsp; &nbsp; &nbsp; [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Scholar][scholar-shield]][scholar-url] &nbsp; &nbsp; &nbsp; &nbsp; [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br/>
 

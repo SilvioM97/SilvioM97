@@ -10,7 +10,7 @@ I'm a Computer Science PhD student at the University of Pisa and a member of [Tu
 
 ---
 
-### 🚀 Open Source & Research Projects
+### 🚀 Open Source Projects
 
 As part of the **TusKANNy** research group, I build and maintain tools to advance vector search and multivector retrieval:
 
@@ -18,4 +18,4 @@ As part of the **TusKANNy** research group, I build and maintain tools to advanc
 
 * [![Vectorium](https://img.shields.io/badge/Vectorium-555555?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusKANNy/vectorium) [![Stars](https://img.shields.io/github/stars/TusKANNy/vectorium?style=for-the-badge&label=%E2%98%85&color=007ec6)](https://github.com/TusKANNy/vectorium) *(Maintainer)* <br> A high-performance Rust library for storing, accessing, and compressing dense, sparse, and multivector embedding datasets.
 
-* [![Awesome Multivector Retrieval](https://img.shields.io/badge/Awesome%20Multivector%20Retrieval-555555?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusKANNy/awesome-multivector-retrieval) [![Stars](https://img.shields.io/github/stars/TusKANNy/awesome-multivector-retrieval?style=for-the-badge&label=%E2%98%85&color=007ec6)](https://github.com/TusKANNy/awesome-multivector-retrieval) *(Creator)* <br> A curated, continuously updated collection of papers, articles, and resources on multivector retrieval.
+* [![Awesome Multivector Retrieval](https://img.shields.io/badge/Awesome%20Multivector%20Retrieval-555555?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusKANNy/awesome-multivector-retrieval) [![Stars](https://img.shields.io/github/stars/TusKANNy/awesome-multivector-retrieval?style=for-the-badge&label=%E2%98%85&color=007ec6)](https://github.com/TusKANNy/awesome-multivector-retrieval) *(Creator & Main Maintainer)* <br> A curated, continuously updated collection of papers, articles, and resources on multivector retrieval.

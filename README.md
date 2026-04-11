@@ -1,46 +1,18 @@
-## Hi, I’m Silvio 👋
-I'm a Computer Science PhD student at the University of Pisa. My interests lie in the fields of Algorithms, Data Structures, Information Retrieval, Machine Learning and related areas.
+# Hi, I’m Silvio 👋
 
-<!---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvioM97)](https://github.com/anuraghazra/github-readme-stats)
---->
+I'm a Computer Science PhD student at the University of Pisa and a member of [TusKANNy](http://tuskanny.com/). My research field is Information Retrieval, with a focus on efficient algorithms and data structures for Approximate Nearest Neighbor (ANN) search and retrieval.
 
-## 🚀 Featured Project: kANNolo
+<p align="left">
+  <a href="https://scholar.google.com/citations?user=RPDQv_gAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://www.linkedin.com/in/silvio-martinico-434285221/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/TusKANNy/kannolo)
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/TusKANNy/kannolo/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/TusKANNy/kannolo?style=for-the-badge&logo=github)](https://github.com/TusKANNy/kannolo)
+---
 
-A high-performance Rust library for vector search (approximate k-nearest neighbors search). kANNolo offers efficient and accurate similarity search for high-dimensional data and it is developed with the goal of facilitating research in ANN search and Information Retrieval.
+### 🚀 Open Source & Research Projects
 
-**Key Features:**
-- ⚡ Fast ANN search for dense and sparse vectors
-- 🦀 Written in Rust
-- 📊 Optimized for high-dimensional datasets
-- 🔬 Research-backed implementation
+As part of the **TusKANNy** research group, I build and maintain tools to advance vector search and multivector retrieval:
 
-[![Explore kANNolo](https://img.shields.io/badge/Visit_Repository-blue?style=for-the-badge)](https://github.com/TusKANNy/kannolo)
-
---------
-
-### 📚 Stay updated on my research
-
-[![Scholar][scholar-shield]][scholar-url] &nbsp; &nbsp; &nbsp; &nbsp; [![LinkedIn][linkedin-shield]][linkedin-url]
-
-<br/>
-
-### 📚 Occasionally dabbling in soft problems in my spare time
-
-<a href="https://stackexchange.com/users/21093928"><img src="https://stackexchange.com/users/flair/21093928.png?theme=dark" width="208" height="58" alt="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for SilvioM on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-&nbsp; &nbsp; &nbsp; &nbsp; [![LeetCode user SilvioM97](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSilvioM97&logo=leetcode&logoColor=yellow)](https://leetcode.com/SilvioM97/)
-
-
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&color=blue
-[linkedin-url]: https://www.linkedin.com/in/silvio-martinico-434285221/
-[logo_isti]: https://github.com/SilvioM97/SilvioM97/assets/96478908/b4bdd44c-b75a-48cc-92c1-6da742dae832
-[url_isti]: https://www.isti.cnr.it/it/chi-siamo/people-detail/1075/Martinico_Silvio 
-[scholar-shield]: https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white
-[scholar-url]: https://scholar.google.com/citations?user=RPDQv_gAAAAJ
-
-
+* **[kANNolo](https://github.com/TusKANNy/kannolo):** *(Creator & Main Maintainer)* A high-performance Rust library for ANN search over dense and sparse embeddings, with a focus on modularity and extensibility. It also features a Python interface.
+* **[Vectorium](https://github.com/TusKANNy/vectorium):** *(Maintainer)* A high-performance Rust library for storing, accessing, and compressing dense, sparse, and multivector embedding datasets.
+* **[Awesome Multivector Retrieval](https://github.com/TusKANNy/awesome-multivector-retrieval):** *(Creator)* A curated, continuously updated collection of papers, articles, and resources for multivector retrieval.

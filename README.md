@@ -14,6 +14,8 @@ I'm a Computer Science PhD student at the University of Pisa and a member of [Tu
 
 As part of the **TusKANNy** research group, I build and maintain tools to advance vector search and multivector retrieval:
 
+* [![TACHIOM](https://img.shields.io/badge/TACHIOM-555555?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusKANNy/tachiom) [![Stars](https://img.shields.io/github/stars/TusKANNy/tachiom?style=for-the-badge&label=%E2%98%85&color=007ec6)](https://github.com/TusKANNy/tachiom) *(Creator & Main Maintainer)* <br> State-of-the-art late-interaction multivector retrieval system. Fully written in Rust and with a clean Python interface.
+
 * [![kANNolo](https://img.shields.io/badge/kANNolo-555555?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusKANNy/kannolo) [![Stars](https://img.shields.io/github/stars/TusKANNy/kannolo?style=for-the-badge&label=%E2%98%85&color=007ec6)](https://github.com/TusKANNy/kannolo) *(Creator & Main Maintainer)* <br> A high-performance Rust library for Approximate Nearest Neighbors (ANN) search over dense and sparse embeddings, with a focus on modularity and extensibility. It also features a Python interface.
 
 * [![Vectorium](https://img.shields.io/badge/Vectorium-555555?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusKANNy/vectorium) [![Stars](https://img.shields.io/github/stars/TusKANNy/vectorium?style=for-the-badge&label=%E2%98%85&color=007ec6)](https://github.com/TusKANNy/vectorium) *(Maintainer)* <br> A high-performance Rust library for storing, accessing, and compressing dense, sparse, and multivector embedding datasets.

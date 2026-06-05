@@ -1,11 +1,12 @@
 # Hi, I’m Silvio 👋
 
-I'm a Computer Science PhD student at the University of Pisa and a member of [TusKANNy](http://tuskanny.com/). My research field is Information Retrieval, with a focus on efficient algorithms and data structures for Approximate Nearest Neighbors (ANN) search and retrieval.
+I'm a Computer Science PhD student at the University of Pisa and a member of [TusKANNy](http://tuskanny.com/). Most of my work revolves around Information Retrieval, with a focus on efficient algorithms and data structures for Approximate Nearest Neighbors (ANN) search and retrieval.
 
 <p align="left">
   <a href="https://scholar.google.com/citations?user=RPDQv_gAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="http://tuskanny.com/people"><img src="https://img.shields.io/badge/TusKANNy-45a194?style=for-the-badge" alt="TusKANNy Group"/></a>
   <a href="https://www.linkedin.com/in/silvio-martinico-434285221/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/SilvioMartinico"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
 </p>
 
 ---
